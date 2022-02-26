@@ -5,15 +5,15 @@ body {
     background-color:beige;
 }
 
-nav {
-    text-align: center;
+nav ul li{
     font-size: large;
-    display:block;
-    margin-right: 100px;
+    display:table;
+    margin-right: 25px;
+    margin: 0 auto;
 }
 
 p {
-    font-size: larger;
+    font-size: x-large;
     margin-top: 25px;
     margin-bottom: 25px;
     margin-right: 100px;
@@ -21,7 +21,7 @@ p {
 }
 
 h2 {
-    font-size: x-large;
+    font-size: xx-large;
     margin-top: 50px;
     margin-bottom: 25px;
     margin-right: 100px;
@@ -37,8 +37,12 @@ img {
 
 figcaption {
     text-align: center;
-    font-size: large;
+    font-size: larger;
     font-style: italic;
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 25px;
+    margin-bottom: 50px;
 }
 
 #mainHeading {
